@@ -1,3 +1,3 @@
 # Quiz-Js
 Quiz website
-link: quiz-tuhin.netlify.app
+link: https://quiz-tuhin.netlify.app/
